@@ -1,1 +1,1 @@
-Всем Hello everyone. My name is Roman. I am looking for a job as a Python developer in California or remotely. I am also currently developing my own chatbot for networking in Telegram. For offers, write to me in Telegram @romantinoteam
+Hello everyone. My name is Roman. I am looking for a job as a Python developer in California or remotely. I am also currently developing my own chatbot for networking in Telegram. For offers, write to me in Telegram @romantinoteam
